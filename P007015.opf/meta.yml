@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W15232
   title: རྒྱུད་བཞིའི་སྤྱི་དོན་ཤེས་བྱ་རབ་གསལ་རྒྱས་པ།
-  volume: ''
+  volume:
+    d4f6fb10c41147e6ae8733624877560a:
+      image_group_id: I1GS65490
+      title: Volume 1 of rgyud bzhi'i spyi don shes bya rab gsal rgyas pa
+      volume_number: 1
+      total_pages: 85
   author: ''
+ebook_metadata:
+  title: རྒྱུད་བཞིའི་སྤྱི་དོན་ཤེས་བྱ་རབ་གསལ་རྒྱས་པ།
+  author: ''
+  sku: P007015
+  cover: cover.jpg
+  layers:
+  - pagination
